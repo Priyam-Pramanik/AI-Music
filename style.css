@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+#note{
+    font-size: 20px;
+    font-family:sans-serif;
+    color: white;
+}
+.song{
+    font-size: 30px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
